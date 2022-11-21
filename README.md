@@ -10,7 +10,9 @@ At the beginning of 2020, I began work on a series of experiments involving live
 
 ## Performance
 
-Teamviewer has options of "optimize speed" and "optimize quality" under the view tab.![](teamviewer_optimize.png) 
+Teamviewer has options of "optimize speed" and "optimize quality" under the view tab.
+
+![](teamviewer_optimize.png) 
 
 On "optimize speed" you can expect to get a reasonable frame rate with playable latency. This will mean you will see most of the detail on higher graphics settings so don't bother with them on the remote machine. Ideally, the remote machine will be pumping out very high fps on low settings for stability.
 
